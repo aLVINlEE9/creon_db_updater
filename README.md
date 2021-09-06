@@ -1,4 +1,4 @@
-# 크레온 API 를 이용해 mysql 로 db 저장
+# 크레온 API 를 이용해 한국 주식 mysql 로 db 저장 (Korean Stock DB updater with Creon API)
 
 - 일자별 주체 수급 현황 DB 
   - '개인', '외국인', '기관', '금융투자', '보험', '투신', '은행', '연기금', '사모펀드'
